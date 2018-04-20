@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jogo_da_velha_windows_form", "jogo_da_velha_windows_form\jogo_da_velha_windows_form.csproj", "{2B047214-F36C-43E6-802C-DC89E55F3E6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B047214-F36C-43E6-802C-DC89E55F3E6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B047214-F36C-43E6-802C-DC89E55F3E6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B047214-F36C-43E6-802C-DC89E55F3E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B047214-F36C-43E6-802C-DC89E55F3E6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA8F5382-9928-4FAB-BA3B-89EC71C912E4}
+	EndGlobalSection
+EndGlobal
